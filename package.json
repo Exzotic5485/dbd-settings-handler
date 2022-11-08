@@ -4,11 +4,23 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discordjs",
+    "discord dashboard",
+    "discord web dashboard",
+    "web dashboard",
+    "dashboard"
+  ],
   "author": "Exzotic",
   "license": "MIT",
   "dependencies": {
     "@keyv/sqlite": "^3.6.2",
     "keyv": "^4.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exzotic5485/dbd-settings-handler.git"
   }
 }
